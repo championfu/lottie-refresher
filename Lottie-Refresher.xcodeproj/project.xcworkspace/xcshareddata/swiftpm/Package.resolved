@@ -1,0 +1,24 @@
+{
+  "originHash" : "6232fcc8ed1ed0cb26124dec7160ffba0f8e1ce4bb4926a137ad70ae3deea83a",
+  "pins" : [
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitee.com/sgabg/lottie-ios",
+      "state" : {
+        "revision" : "fe4c6fe3a0aa66cdeb51d549623c82ca9704b9a5",
+        "version" : "4.5.0"
+      }
+    },
+    {
+      "identity" : "mjrefresh",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitee.com/commind-vender/MJRefresh",
+      "state" : {
+        "revision" : "d6c497619949e5eb4adb40551f05c1a691194838",
+        "version" : "3.7.6"
+      }
+    }
+  ],
+  "version" : 3
+}
